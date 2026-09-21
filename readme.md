@@ -81,3 +81,7 @@ The DS-10 gives a somewhat fatter and bassier sound than the DSN-12, so the same
 ## Contact
 
 manwe@demoscene.ru
+
+## Acknowledgements
+
+Many thanks to Mystievous for the KORG M01 converter, [M01-Converter](https://github.com/Mystievous/M01-Converter), and for the inspiration.
